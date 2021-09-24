@@ -16,3 +16,8 @@ public class conversion_2 {
     return Celsius;
   }
 }
+
+public static void main(String[] args){
+  System.out.printIn (fahrenheittoCelsius(0));
+  System.out.printIn (celsiusToFahrenheit(0));
+}
